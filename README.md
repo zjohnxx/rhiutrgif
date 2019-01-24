@@ -1,1 +1,2 @@
-# rhiutrgif
+# Probot ✨
+Epic Discord Bot
